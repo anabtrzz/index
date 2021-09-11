@@ -41,4 +41,13 @@ font-size: 150px;
 .footer{grid-area:footer;
    align-items:center;
    display:flex;
+   justify-content: space-evenly;
    text-decoration: line-through rgba(165, 42, 42, 0.733);}
+a{
+   width:15px;
+   color:black;
+   text-decoration: none;
+}
+a:hover {
+   color:grey;
+}
